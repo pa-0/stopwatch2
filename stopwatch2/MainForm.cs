@@ -14,6 +14,8 @@ using System.Diagnostics;
 using System.IO;
 using System.Text;
 
+//példaváltoztatás..
+
 namespace stopwatch2
 {
 	/// <summary>
