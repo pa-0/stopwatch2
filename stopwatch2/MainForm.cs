@@ -14,7 +14,7 @@ using System.Diagnostics;
 using System.IO;
 using System.Text;
 
-//példaváltoztatás..
+//..
 
 namespace stopwatch2
 {
@@ -36,6 +36,7 @@ namespace stopwatch2
 			//	
 		}
 		
+		//ez itt egy hozzáadott sor
 		void Button1Click(object sender, EventArgs e)
 		{
 			if (button1.Text == ">") {
